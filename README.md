@@ -1,3 +1,3 @@
 # best-repo-ever
 
-This is a test for new-branch-1!
+This is a test!
